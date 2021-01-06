@@ -1,8 +1,8 @@
 ---
-title: Building an interface between people and nature2
+title: Soutenez notre Non-Mariage!
 date: 2020-05-12T12:14:34.000+06:00
 image: "/images/neve-wedding-22.webp"
-author: John Doe
+author: Dada & Krikri
 description: This is meta description.
 categories:
 - Green Tree
