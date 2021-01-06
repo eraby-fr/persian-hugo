@@ -103,7 +103,8 @@
 
   &-sm {
     .post-title {
-      font-size: 1.7rem;
+      color: $red;
+      font-size: 2rem;
       @include mobile {
         font-size: 1.2rem;
       }
